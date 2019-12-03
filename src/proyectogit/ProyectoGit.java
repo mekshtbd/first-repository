@@ -17,6 +17,7 @@ public class ProyectoGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Esto es una prueba de GIT");
+        System.out.println("Prueba de GIT");
     }
     
 }
